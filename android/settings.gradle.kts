@@ -1,0 +1,3 @@
+rootProject.name = "mupdf_android"
+
+
